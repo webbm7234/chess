@@ -11,7 +11,7 @@ Building a platform where people can
 
 Let's keep it simple
 
-1. React for Frontend
+1. React fogdfsr Frontend
 2. Node.js for Backend
 3. Typescript as the language
 4. Saparate Websocket servers for handling real time games
